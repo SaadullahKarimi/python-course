@@ -2,7 +2,7 @@
 # Python Course
 
 ## Overview
-This course covers the basics of Python programming.
+- This course covers the basics of Python programming.
 
 ## Prerequisites
 - Python 3.x installed
@@ -16,7 +16,7 @@ This course covers the basics of Python programming.
 
 - This repository is licensed under the [MIT License](LICENSE).
 
-- Happy learning, and we hope you find this repository helpful on your journey to mastering databases!
+- Happy learning, and we hope you find this repository helpful on your journey to mastering python!
 
 ## Installation
 Clone the repository:
